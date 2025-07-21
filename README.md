@@ -30,4 +30,6 @@ Remember, anonymity is essential when navigating these spaces. Always utilize a 
 
 
 
-Update: Thumbnail URLs
+
+
+Update:  21 July 2025
