@@ -36,4 +36,6 @@ Remember, anonymity is essential when navigating these spaces. Always utilize a 
 
 
 
-Update:  08/04/2025
+
+
+Update:  Wednesday 13 August 2025 url is now responsive and functioning
