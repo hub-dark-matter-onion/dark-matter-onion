@@ -40,4 +40,6 @@ Remember, anonymity is essential when navigating these spaces. Always utilize a 
 
 
 
-Update:  19 August
+
+
+Update:  23.08.2025 Fixed broken link, now reachable and live
