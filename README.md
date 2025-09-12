@@ -42,4 +42,6 @@ Remember, anonymity is essential when navigating these spaces. Always utilize a 
 
 
 
-Update:  23.08.2025 Fixed broken link, now reachable and live
+
+
+Update:  12.09.2025 url is now active and responsive
