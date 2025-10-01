@@ -46,4 +46,6 @@ Remember, anonymity is essential when navigating these spaces. Always utilize a 
 
 
 
-Update:  09/18/2025 404 fixes
+
+
+Update:  01.10.2025 url is responsive
