@@ -4,9 +4,9 @@ Interested in exploring Dark Matter Onion? This darknet marketplace provides acc
 
 ## Dark Matter: Market URL:
 
-[<img src="/res/scroll.webp" width="200">](http://%35%77%68%77%6E%62&#99;%6C%6F&#105;&#100;&#110;%6D%70%70&#119;&#104;%34&#101;&#107;%6C&#106;&#51;&#113;&#101;&#53;%70%34&#105;%69%6C%73u%64%33%6B&#99;&#50;%69&#103;&#106;&#104;&#51;&#114;%71%7A&#109;%7A&#54;%74%6A&#106;%76&#109;%71&#100;%2E%6F%6E%69%6F&#110;)
+[<img src="/figures/dark.webp" width="200">](http://%64&#97;&#114;&#107;%6D%61&#116;%33%6F&#104;&#99;&#51;%6A%79%6B%6F%69u&#54;&#112;%6F&#99;&#102;%65&#53;&#54;%37%32&#100;&#118;%76&#52;&#98;u&#54;&#106;&#119;&#101;%36&#110;u&#99;%7A&#52;&#120;&#120;%32%33&#54;&#101;&#99;&#102;%6F%61%71%64&#46;&#111;%6E%69&#111;&#110;)
 
-<a href="http://%35%77%68%77%6E%62&#99;%6C%6F&#105;&#100;&#110;%6D%70%70&#119;&#104;%34&#101;&#107;%6C&#106;&#51;&#113;&#101;&#53;%70%34&#105;%69%6C%73u%64%33%6B&#99;&#50;%69&#103;&#106;&#104;&#51;&#114;%71%7A&#109;%7A&#54;%74%6A&#106;%76&#109;%71&#100;%2E%6F%6E%69%6F&#110;"><img src="/res/sight.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://%64&#97;&#114;&#107;%6D%61&#116;%33%6F&#104;&#99;&#51;%6A%79%6B%6F%69u&#54;&#112;%6F&#99;&#102;%65&#53;&#54;%37%32&#100;&#118;%76&#52;&#98;u&#54;&#106;&#119;&#101;%36&#110;u&#99;%7A&#52;&#120;&#120;%32%33&#54;&#101;&#99;&#102;%6F%61%71%64&#46;&#111;%6E%69&#111;&#110;"><img src="/figures/edge.webp" alt="image" style="max-width: 100%;"><a>
 
 This platform serves solely for educational and informational purposes, offering a glimpse into the intricacies of the dark web. We do not collect commissions or kickbacks from market affiliate links, and we are not associated with any legal entities. We do not endorse or promote any illegal activities.
 
@@ -18,4 +18,4 @@ It's also crucial to be aware of the Dark Matter darknet mirrors. These alternat
 
 Remember, anonymity is essential when navigating these spaces. Always utilize a VPN and employ anonymous payment methods to protect your privacy and data.
 
-<a href="http://%35%77%68%77%6E%62&#99;%6C%6F&#105;&#100;&#110;%6D%70%70&#119;&#104;%34&#101;&#107;%6C&#106;&#51;&#113;&#101;&#53;%70%34&#105;%69%6C%73u%64%33%6B&#99;&#50;%69&#103;&#106;&#104;&#51;&#114;%71%7A&#109;%7A&#54;%74%6A&#106;%76&#109;%71&#100;%2E%6F%6E%69%6F&#110;"><img src="/res/prefs.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://%35%77%68%77%6E%62&#99;%6C%6F&#105;&#100;&#110;%6D%70%70&#119;&#104;%34&#101;&#107;%6C&#106;&#51;&#113;&#101;&#53;%70%34&#105;%69%6C%73u%64%33%6B&#99;&#50;%69&#103;&#106;&#104;&#51;&#114;%71%7A&#109;%7A&#54;%74%6A&#106;%76&#109;%71&#100;%2E%6F%6E%69%6F&#110;"><img src="/res/pixel.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://%64&#97;&#114;&#107;%6D%61&#116;%33%6F&#104;&#99;&#51;%6A%79%6B%6F%69u&#54;&#112;%6F&#99;&#102;%65&#53;&#54;%37%32&#100;&#118;%76&#52;&#98;u&#54;&#106;&#119;&#101;%36&#110;u&#99;%7A&#52;&#120;&#120;%32%33&#54;&#101;&#99;&#102;%6F%61%71%64&#46;&#111;%6E%69&#111;&#110;"><img src="/figures/under.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://%64&#97;&#114;&#107;%6D%61&#116;%33%6F&#104;&#99;&#51;%6A%79%6B%6F%69u&#54;&#112;%6F&#99;&#102;%65&#53;&#54;%37%32&#100;&#118;%76&#52;&#98;u&#54;&#106;&#119;&#101;%36&#110;u&#99;%7A&#52;&#120;&#120;%32%33&#54;&#101;&#99;&#102;%6F%61%71%64&#46;&#111;%6E%69&#111;&#110;"><img src="/figures/element.webp" alt="image" style="max-width: 100%;"><a>
